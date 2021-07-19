@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstname": "Aditya ",
+      "lastname": "Patil",
+      "email": "adityapatil@gmail.com"
+    },
+    {
+      "firstname": "Baburao",
+      "lastname": "Apte",
+      "email": "babubhaiya420@gmail.com",
+      "id": 8
+    },
+    {
+      "firstname": "Shubham",
+      "lastname": "Gahlot",
+      "email": "shubthakur23@gmail.com",
+      "id": 10
+    },
+    {
+      "firstname": "Atharv",
+      "lastname": "Gaikwad",
+      "email": "atharvgaikwad56@gmail.com",
+      "id": 12
+    },
+    {
+      "firstname": "Ashutosh",
+      "lastname": "Chaudhary",
+      "email": "ashu67@gmail.com",
+      "id": 13
+    },
+    {
+      "firstname": "Sachin ",
+      "lastname": "Bhosale",
+      "email": "sachin56@gmail.com",
+      "id": 14
+    },
+    {
+      "firstname": "Akash",
+      "lastname": "Varma",
+      "email": "akashvarma13@gmail.com",
+      "id": 15
+    }
+  ]
+}
